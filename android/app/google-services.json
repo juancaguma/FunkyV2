@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6174064269",
+    "project_id": "mujeralerta-app",
+    "storage_bucket": "mujeralerta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6174064269:android:fb8364fccb41016db16cc4",
+        "android_client_info": {
+          "package_name": "com.syslabcolima.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6174064269-qa4evdbdqa1mntkt9nn9qr9s21n8qc6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syslabcolima.auth_app",
+            "certificate_hash": "78e9ecd3023af99bdd37e996c7b228ffa0c2a528"
+          }
+        },
+        {
+          "client_id": "6174064269-g42j5g5j8428ffujksdgvs6no2eilddv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ds_dbNGcZdbAYnVthGpPm2KYOza_Xm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6174064269-g42j5g5j8428ffujksdgvs6no2eilddv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
